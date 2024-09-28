@@ -1,5 +1,7 @@
 # Forecasting Agricultural CO2 Emission Using Machine Learning Models
 
+![CO2 Emission](https://github.com/sivashankarialaganandham/Agro_CO2_Emission/blob/main/CO2%20Emission%20Image.jpg)
+
 ## Project Overview
 This project aims to forecast CO2 emissions in the agricultural sector using various machine learning models. The models employed include Linear Regression, Random Forest Regressor, Gradient Boosting Regressor (GBR), and XGBoost Regressor. By leveraging historical data from sources such as IPCC and FAO, this project seeks to provide accurate predictions that can guide decision-making processes in reducing agricultural CO2 emissions. 
 
